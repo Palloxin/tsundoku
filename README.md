@@ -16,6 +16,9 @@ Discover and read novels and more – easier than ever on your Android device.
 [![License: Apache-2.0](https://img.shields.io/github/license/tsundoku-otaku/tsundoku?labelColor=27303D&color=0877d2)](/LICENSE)
 [![Translation status](https://img.shields.io/weblate/progress/tsundoku?labelColor=27303D&color=946300)](https://hosted.weblate.org/engage/tsundoku/)
 
+Upstream Weblate:  
+[![Translation status](https://img.shields.io/weblate/progress/mihon?labelColor=27303D&color=946300)](https://hosted.weblate.org/engage/mihon/)
+
 ## Download
 
 [![Tsundoku Stable](https://img.shields.io/github/release/tsundoku-otaku/tsundoku.svg?maxAge=3600&label=Stable&labelColor=06599d&color=043b69)](https://tsundoku-otaku.github.io/download)
@@ -27,15 +30,19 @@ Discover and read novels and more – easier than ever on your Android device.
 
 <div align="left">
 
-* Local reading of content.
+* Local reading of content, including: EPUBs, TXT, HTML.
 * A configurable reader with multiple viewers, font colors and themes, among other settings.
-* Tracker support: [MyAnimeList](https://myanimelist.net/), [AniList](https://anilist.co/), [Kitsu](https://kitsu.app/), [MangaUpdates](https://mangaupdates.com), [Shikimori](https://shikimori.one), and [Bangumi](https://bgm.tv/) support.
+* Tracker support: [NovelUpdates](https://www.novelupdates.com/) and [NovelList](https://www.novellist.co/), plus the classics: [MyAnimeList](https://myanimelist.net/), [AniList](https://anilist.co/), [Kitsu](https://kitsu.app/), [MangaUpdates](https://mangaupdates.com), [Shikimori](https://shikimori.one), and [Bangumi](https://bgm.tv/) support.
 * Categories to organize your library.
 * Light and dark themes.
 * Schedule updating your library for new chapters.
+* Add delays to ease demand on sources.
 * Create backups locally to read offline or to your desired cloud service.
-* Import lnreader backups
-* Use lnreader extensions
+* Import lnreader backups.
+* Use lnreader extensions.
+* Read-ahead chapter downloads
+* TTS
+* In-app translation of text
 * Plus much more...
 
 </div>
