@@ -68,6 +68,7 @@
     <!-- Novel Reader UI -->
     <string name="novel_tab_controls">Controls</string>
     <string name="novel_advanced_webview_only">Advanced settings are only available in WebView rendering mode.</string>
+    <string name="novel_no_cssjs">No CSS or JS Snippets are available in this mode</string>
     <string name="novel_snippet_title">Snippet title</string>
     <string name="novel_snippet_code">Code</string>
     <string name="novel_add_snippet">Add snippet</string>
