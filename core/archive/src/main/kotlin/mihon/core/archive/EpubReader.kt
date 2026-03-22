@@ -190,7 +190,7 @@ class EpubReader(private val reader: ArchiveReader) : Closeable by reader {
         for (segment in segments) {
             if (segment == "." || segment.isEmpty()) continue
             if (segment == "..") {
-                if (resolved.isNotEmpty()) resolved.removeLast()
+                if (resolved.isNotEmpty()) resolved.removeAt(resolved.lastIndex)
             } else {
                 resolved.add(segment)
             }
